@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.parent{
+  display: flex;
+  flex-direction: column;
+  min-height: 100dvh;
+
+}
+.myfooter{
+  margin-top: auto;
+  background: #000;
+}
+:root {
+  --light-pink: #f8c8d1;  /* Light Pink */
+  --soft-pink: #f1a7c7;   /* Soft Pink */
+  --medium-pink: #e67c8b;  /* Medium Pink */
+  --rose-pink: #d8326e;    /* Rose Pink */
+  --dark-pink: #b71540;    /* Dark Pink */
+  --hot-pink: #ff4b8a;     /* Hot Pink */
+  --pink-primary: #e91e63; /* Primary Pink (for buttons, accents) */
+  --pink-light: #ff80ab;   /* Light Accent Pink */
+  --pink-dark: #ad1457;    /* Darker Pink for headings or borders */
+  --light-pink: #f8c8d1;  /* Light Pink */
+  --soft-pink: #f1a7c7;   /* Soft Pink */
+  --medium-pink: #e67c8b;  /* Medium Pink */
+  --rose-pink: #d8326e;    /* Rose Pink */
+  --dark-pink: #b71540;    /* Dark Pink */
+  --hot-pink: #ff4b8a;     /* Hot Pink */
+  --pink-primary: #e91e63; /* Primary Pink (for buttons, accents) */
+  --pink-light: #ff80ab;   /* Light Accent Pink */
+  --pink-dark: #ad1457;    /* Darker Pink for headings or borders */
+  
+  --black: #000000;        /* Black */
+  --white: #ffffff;        /* White */
+}
